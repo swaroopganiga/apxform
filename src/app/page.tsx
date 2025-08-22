@@ -198,7 +198,7 @@ export default function Home() {
         animate={{ opacity: 1 }}
         transition={{ delay: 2.5, duration: 0.8 }}
       >
-        <p>© 2025 ApxForms Labs. All rights reserved.</p>
+        <p>© 2025 ApexForm Labs. All rights reserved.</p>
       </motion.div>
     </div>
   );

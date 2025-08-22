@@ -14,20 +14,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ApxForms",
-  description: "Modern Next.js scaffold optimized for  with ApxForms. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["ApxForms", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "ApxForms Team" }],
+  title: "ApxForm",
+  description: "Modern Next.js scaffold optimized for  with ApxForm. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
+  keywords: ["ApxForm", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
+  authors: [{ name: "ApxForm Team" }],
   openGraph: {
-    title: "ApxForms",
+    title: "ApxForm",
     description: "",
-    url: "https://apxforms.tech",
-    siteName: "ApxForms",
+    url: "https://apxform.tech",
+    siteName: "ApxForm",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "ApxForms",
+    title: "ApxForm",
     description: "",
   },
 };
